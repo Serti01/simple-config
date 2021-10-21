@@ -7,7 +7,7 @@ All types are case insensitive<br/>
 
 ## Null
 Represents nothing<br/>
-ie: `property/null;`, `<br/>
+ie: `property/null;`<br/>
 IEV: 0, `null`<br/>
 
 ## Array
